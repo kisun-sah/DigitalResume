@@ -249,7 +249,7 @@ section{
     top: 0;
     right: 0;
     height: 100%;
-    width: 52%;
+    width: 62%;
     background: transparent;
     transition: 3s;
    
@@ -449,6 +449,12 @@ span{
     font-size: 2.0rem;
     padding-top: .5rem;
 }
+
+.education-content .content ul{
+    font-size: 2.0rem;
+    padding-top: .5rem;
+}
+
 .skills{
     min-height: auto;
     padding: 7rem;
