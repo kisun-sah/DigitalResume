@@ -80,3 +80,14 @@
            document.scrollingElement.scrollHeight)
 
         };
+
+        let button = document.getElementById("btn1");
+        console.log(button);
+        button.addEventListener('click' ,function() {
+            alert('Thank you for your review');
+            
+            
+            
+        })
+
+
